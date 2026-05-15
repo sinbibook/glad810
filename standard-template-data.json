@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-05-15T07:10:11.937065007Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-05-15T08:08:03.120069934Z",
     "templateType": "fullpage_visual",
     "propertyId": "e4c3556a-ff46-4cdb-a53a-6346933cd7e6",
     "homepageId": "77f537ed-64b2-4a8a-ba91-2f1f2807697b"
@@ -808,13 +808,22 @@
     "templateType": "fullpage_visual",
     "images": [
       {
-        "logo": [ ]
+        "logo": [
+          {
+            "id": "f5ddada9-cdb8-4da0-896e-f51327ad473f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/logo/1778832204235-2eoxhvi4es.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "남해 글래드810 스파풀빌라",
+      "description": "남해 바다를 가장 여유롭게 머무는 공간, 글래드810 스파 풀빌라",
+      "keywords": "남해풀빌라,남해오션뷰,글래드810,남해스파풀빌라,남해감성숙소"
     },
     "socialLinks": {
       "facebook": null,
@@ -1269,7 +1278,116 @@
       },
       "property": {
         "name": "남해 글래드810 스파풀빌라",
-        "images": [ ],
+        "images": [
+          {
+            "id": "2a02696a-3c92-40f9-ad7d-e3b60a1c8c32",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_thumbnail/1778832466218-m1cf60sgbe.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "b5719f8b-ef49-4747-b988-9885596508db",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832465850-m590qnbe20.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d6cfd6a1-29c4-4af2-9185-ef3bcef18aa7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466295-r7xcrb7sut.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "02e51e8e-6096-44be-9075-1c502f2aed1a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832465935-62ksffm4g0.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "f712e37b-89f2-480b-936e-85af89d850d4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466219-2bz7f184wx.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "68ff80f7-d6da-4648-842c-4317b30606d9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466395-kqm44n85ft.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "40dcc5ed-d449-43d1-9dac-53ecdc0a508f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466134-3wgggb3y0j.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "8b8e38ef-31ea-42fb-8245-b79f819b1adc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466135-o01ean2xbd.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "50b00f78-f085-4b61-aa23-ea3b3422c354",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466138-yindppbvpa.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "9a4927f4-b355-49ee-9cbf-b0aa2e00a680",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832465931-gu5yrrchyy.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "7ed70c00-10d3-4a49-a60f-b2bb0c6f2701",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466386-ahxk344etg.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "aebf52d6-0b34-4a29-b27b-6966f24b7ba0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/property_exterior/1778832466224-midv95y852.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Namhae GLAD810 Spa Pool Villa"
       },
       "roomtypes": [
@@ -1397,7 +1515,7 @@
               "id": "ad6d6c7f-c758-49f9-a122-72512d156e11",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778810071384-ut4h3wi0xp.jpg",
               "sortOrder": 0,
-              "description": "",
+              "description": "풀빌라",
               "isSelected": true,
               "blockId": "1770922f-be5a-4afe-9d3f-b2ac7e81831c",
               "category": "roomtype_exterior"
@@ -1406,7 +1524,7 @@
               "id": "c5b19001-a0e0-463b-b5f0-5706f3c94d90",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778810071385-wp4371vstz.jpg",
               "sortOrder": 1,
-              "description": "",
+              "description": "개별바베큐",
               "isSelected": true,
               "blockId": "1770922f-be5a-4afe-9d3f-b2ac7e81831c",
               "category": "roomtype_exterior"
@@ -1415,7 +1533,7 @@
               "id": "7ac0c78c-bfbc-4d98-8074-24ae85cdd5ad",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778810071386-ee4zjozbo0.jpg",
               "sortOrder": 2,
-              "description": "",
+              "description": "풀빌라2",
               "isSelected": true,
               "blockId": "1770922f-be5a-4afe-9d3f-b2ac7e81831c",
               "category": "roomtype_exterior"
@@ -1424,7 +1542,7 @@
               "id": "357a312c-de57-4cad-ac4f-3d87283003b1",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778810071387-d443ftkezr.jpg",
               "sortOrder": 3,
-              "description": "",
+              "description": "오션뷰",
               "isSelected": true,
               "blockId": "1770922f-be5a-4afe-9d3f-b2ac7e81831c",
               "category": "roomtype_exterior"
@@ -1546,7 +1664,7 @@
               "id": "88bda397-ad2b-47c5-b950-b336af961c92",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135965-vqv78jjdy3.jpg",
               "sortOrder": 4,
-              "description": "",
+              "description": "풀빌라",
               "isSelected": true,
               "blockId": "02101541-fb43-4246-9920-cba2997aaf81",
               "category": "roomtype_exterior"
@@ -1555,7 +1673,7 @@
               "id": "1b34d409-b703-4831-95e3-446a3b892bc3",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135703-5xf1pg08qb.jpg",
               "sortOrder": 5,
-              "description": "",
+              "description": "객실내부",
               "isSelected": true,
               "blockId": "02101541-fb43-4246-9920-cba2997aaf81",
               "category": "roomtype_exterior"
@@ -1564,7 +1682,16 @@
               "id": "c2884edb-42e5-42f0-8c75-3b604824cc2d",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135704-i9gne7j0fz.jpg",
               "sortOrder": 6,
-              "description": "",
+              "description": "오션뷰",
+              "isSelected": true,
+              "blockId": "02101541-fb43-4246-9920-cba2997aaf81",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "3b444024-3dda-4d32-b86a-0f0d12b4c1ab",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778832466380-8i7nsnaq9p.jpg",
+              "sortOrder": 14,
+              "description": "Spa",
               "isSelected": true,
               "blockId": "02101541-fb43-4246-9920-cba2997aaf81",
               "category": "roomtype_exterior"
@@ -1677,7 +1804,7 @@
               "id": "8cec44e2-0d3c-4c57-b14c-4f7453ccff92",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135886-aa6e883j7m.jpg",
               "sortOrder": 7,
-              "description": "",
+              "description": "풀빌라",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
               "category": "roomtype_exterior"
@@ -1686,7 +1813,7 @@
               "id": "33c0d8b1-92bd-44d5-8ce2-fd1b1426da74",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135884-g94w3swdyu.jpg",
               "sortOrder": 8,
-              "description": "",
+              "description": "개별바베큐",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
               "category": "roomtype_exterior"
@@ -1695,7 +1822,7 @@
               "id": "59edd2b1-7f17-4fbf-8e7c-33a29b64220f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135888-hyf09t8uhz.jpg",
               "sortOrder": 9,
-              "description": "",
+              "description": "객실내부",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
               "category": "roomtype_exterior"
@@ -1704,7 +1831,7 @@
               "id": "c5281429-121d-4eec-bacb-7fd3a1abdb5c",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136066-4vdyjdqmuc.jpg",
               "sortOrder": 10,
-              "description": "",
+              "description": "Spa",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
               "category": "roomtype_exterior"
@@ -1814,10 +1941,10 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "f1479cb4-ca13-41ad-8df9-13d79a6e8ccc",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136069-6qbli2fjpw.jpg",
-              "sortOrder": 11,
-              "description": "",
+              "id": "6c15dc5c-1485-46aa-99ee-860419215b07",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136069-e4vubwk90v.jpg",
+              "sortOrder": 15,
+              "description": "오션뷰",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
               "category": "roomtype_exterior"
@@ -1825,17 +1952,26 @@
             {
               "id": "1a0a6137-1ab1-4a18-b6fb-1a0fa0d04e28",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136070-og0e6rzriq.jpg",
-              "sortOrder": 12,
-              "description": "",
+              "sortOrder": 16,
+              "description": "객실내부",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
               "category": "roomtype_exterior"
             },
             {
-              "id": "6c15dc5c-1485-46aa-99ee-860419215b07",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136069-e4vubwk90v.jpg",
-              "sortOrder": 13,
-              "description": "",
+              "id": "f1479cb4-ca13-41ad-8df9-13d79a6e8ccc",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136069-6qbli2fjpw.jpg",
+              "sortOrder": 17,
+              "description": "Spa",
+              "isSelected": true,
+              "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "aa8bb1d3-f576-4271-a95f-b0bed658751b",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778832466438-iivxukvu7k.jpg",
+              "sortOrder": 18,
+              "description": "테라스",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
               "category": "roomtype_exterior"
@@ -1938,8 +2074,8 @@
             {
               "id": "cb45eb34-33af-48a1-b04c-b166fd83f6eb",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135967-4d6dkjcrhm.jpg",
-              "sortOrder": 14,
-              "description": "",
+              "sortOrder": 11,
+              "description": "오션뷰",
               "isSelected": true,
               "blockId": "5b7aba75-db2c-4601-8c09-f443a9c2c2a3",
               "category": "roomtype_exterior"
@@ -1947,8 +2083,8 @@
             {
               "id": "8fcfef06-d4b8-4b34-9c57-8ffc0e9c0185",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135890-9chp4h8a2z.jpg",
-              "sortOrder": 15,
-              "description": "",
+              "sortOrder": 12,
+              "description": "개별바베큐",
               "isSelected": true,
               "blockId": "5b7aba75-db2c-4601-8c09-f443a9c2c2a3",
               "category": "roomtype_exterior"
@@ -1956,8 +2092,8 @@
             {
               "id": "d2be0d16-6255-49c0-9ae6-e95e28168c1d",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136070-jz0yrp1uys.jpg",
-              "sortOrder": 16,
-              "description": "",
+              "sortOrder": 13,
+              "description": "Spa",
               "isSelected": true,
               "blockId": "5b7aba75-db2c-4601-8c09-f443a9c2c2a3",
               "category": "roomtype_exterior"
