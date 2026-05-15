@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-05-15T08:08:03.120069934Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-05-15T08:12:26.491376846Z",
     "templateType": "fullpage_visual",
     "propertyId": "e4c3556a-ff46-4cdb-a53a-6346933cd7e6",
     "homepageId": "77f537ed-64b2-4a8a-ba91-2f1f2807697b"
@@ -1071,7 +1071,7 @@
               },
               "about": [
                 {
-                  "title": "",
+                  "title": "프라이빗 단독 풀빌라",
                   "images": [
                     {
                       "id": "de0147e7-7b44-400d-b099-6e9df17a4e4c",
@@ -1115,10 +1115,10 @@
                     }
                   ],
                   "blockId": "0702d465-bd9e-4221-a03f-a037ab089cd0",
-                  "description": ""
+                  "description": "프라이빗하게 즐기는 남해글래드810 스파 풀빌라\n객실 안에서 여유롭게 머무는 개별 풀빌라 공간\n남해 바다와 함께 특별한 휴식을 즐겨보세요."
                 },
                 {
-                  "title": "",
+                  "title": "전 객실 오션뷰",
                   "images": [
                     {
                       "id": "fc551374-a23a-43e3-acad-768e46c1cfeb",
@@ -1162,7 +1162,7 @@
                     }
                   ],
                   "blockId": "65b334f5-560e-4b46-8153-3263bddf8843",
-                  "description": ""
+                  "description": "쾌적하고 깔끔하게 준비된 객실에서 편안한 휴식을 즐겨보세요.\n전 객실 탁 트인 오션뷰와 함께 남해 바다의 여유를 느낄 수 있습니다.\n일상에서 벗어나 바다와 함께하는 특별한 시간을 만나보세요."
                 }
               ]
             }
@@ -1690,7 +1690,7 @@
             {
               "id": "3b444024-3dda-4d32-b86a-0f0d12b4c1ab",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778832466380-8i7nsnaq9p.jpg",
-              "sortOrder": 14,
+              "sortOrder": 7,
               "description": "Spa",
               "isSelected": true,
               "blockId": "02101541-fb43-4246-9920-cba2997aaf81",
@@ -1803,7 +1803,7 @@
             {
               "id": "8cec44e2-0d3c-4c57-b14c-4f7453ccff92",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135886-aa6e883j7m.jpg",
-              "sortOrder": 7,
+              "sortOrder": 8,
               "description": "풀빌라",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
@@ -1812,7 +1812,7 @@
             {
               "id": "33c0d8b1-92bd-44d5-8ce2-fd1b1426da74",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135884-g94w3swdyu.jpg",
-              "sortOrder": 8,
+              "sortOrder": 9,
               "description": "개별바베큐",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
@@ -1821,7 +1821,7 @@
             {
               "id": "59edd2b1-7f17-4fbf-8e7c-33a29b64220f",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135888-hyf09t8uhz.jpg",
-              "sortOrder": 9,
+              "sortOrder": 10,
               "description": "객실내부",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
@@ -1830,7 +1830,7 @@
             {
               "id": "c5281429-121d-4eec-bacb-7fd3a1abdb5c",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136066-4vdyjdqmuc.jpg",
-              "sortOrder": 10,
+              "sortOrder": 11,
               "description": "Spa",
               "isSelected": true,
               "blockId": "8701c508-6166-4398-88ff-a046f36e24e9",
@@ -1943,7 +1943,7 @@
             {
               "id": "6c15dc5c-1485-46aa-99ee-860419215b07",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136069-e4vubwk90v.jpg",
-              "sortOrder": 15,
+              "sortOrder": 12,
               "description": "오션뷰",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
@@ -1952,7 +1952,7 @@
             {
               "id": "1a0a6137-1ab1-4a18-b6fb-1a0fa0d04e28",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136070-og0e6rzriq.jpg",
-              "sortOrder": 16,
+              "sortOrder": 13,
               "description": "객실내부",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
@@ -1961,7 +1961,7 @@
             {
               "id": "f1479cb4-ca13-41ad-8df9-13d79a6e8ccc",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136069-6qbli2fjpw.jpg",
-              "sortOrder": 17,
+              "sortOrder": 14,
               "description": "Spa",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
@@ -1970,7 +1970,7 @@
             {
               "id": "aa8bb1d3-f576-4271-a95f-b0bed658751b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778832466438-iivxukvu7k.jpg",
-              "sortOrder": 18,
+              "sortOrder": 15,
               "description": "테라스",
               "isSelected": true,
               "blockId": "0d39e9f7-495a-490e-bab4-3fa5b8981704",
@@ -2074,7 +2074,7 @@
             {
               "id": "cb45eb34-33af-48a1-b04c-b166fd83f6eb",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135967-4d6dkjcrhm.jpg",
-              "sortOrder": 11,
+              "sortOrder": 16,
               "description": "오션뷰",
               "isSelected": true,
               "blockId": "5b7aba75-db2c-4601-8c09-f443a9c2c2a3",
@@ -2083,7 +2083,7 @@
             {
               "id": "8fcfef06-d4b8-4b34-9c57-8ffc0e9c0185",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811135890-9chp4h8a2z.jpg",
-              "sortOrder": 12,
+              "sortOrder": 17,
               "description": "개별바베큐",
               "isSelected": true,
               "blockId": "5b7aba75-db2c-4601-8c09-f443a9c2c2a3",
@@ -2092,7 +2092,7 @@
             {
               "id": "d2be0d16-6255-49c0-9ae6-e95e28168c1d",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/77f537ed-64b2-4a8a-ba91-2f1f2807697b/roomtype_exterior/1778811136070-jz0yrp1uys.jpg",
-              "sortOrder": 13,
+              "sortOrder": 18,
               "description": "Spa",
               "isSelected": true,
               "blockId": "5b7aba75-db2c-4601-8c09-f443a9c2c2a3",
