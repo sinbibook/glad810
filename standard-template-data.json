@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-06-02T01:40:53.589655583Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-06-02T03:56:42.127477979Z",
     "templateType": "fullpage_visual",
     "propertyId": "e4c3556a-ff46-4cdb-a53a-6346933cd7e6",
     "homepageId": "77f537ed-64b2-4a8a-ba91-2f1f2807697b"
@@ -1219,6 +1219,19 @@
             }
           ]
         },
+        "nearbyAttractions": {
+          "sections": [
+            {
+              "hero": {
+                "title": "",
+                "images": [ ],
+                "description": ""
+              },
+              "about": [ ],
+              "enabled": false
+            }
+          ]
+        },
         "layoutMap": {
           "sections": [
             {
@@ -1232,19 +1245,6 @@
                 "images": [ ],
                 "description": ""
               },
-              "enabled": false
-            }
-          ]
-        },
-        "nearbyAttractions": {
-          "sections": [
-            {
-              "hero": {
-                "title": "",
-                "images": [ ],
-                "description": ""
-              },
-              "about": [ ],
               "enabled": false
             }
           ]
