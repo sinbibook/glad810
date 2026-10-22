@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-10-21T07:14:32.815578242Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-10-22T05:39:08.759327128Z",
     "templateType": "fullpage_visual",
     "propertyId": "e4c3556a-ff46-4cdb-a53a-6346933cd7e6",
     "homepageId": "77f537ed-64b2-4a8a-ba91-2f1f2807697b"
@@ -320,7 +320,7 @@
           {
             "id": "50dc24e7-c1ec-4fb2-a026-8fafcbbd81d9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/yz9cNP5jt2om.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -330,7 +330,7 @@
           {
             "id": "5fc93923-b525-4390-a3cf-6935042cee52",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/43XtCd0LIahZ.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -338,7 +338,7 @@
           {
             "id": "db104dcd-9a4e-4258-8eb4-64439789d192",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/c3iHqVjfh2Lo.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +346,7 @@
           {
             "id": "45962d13-ff22-496e-b3d7-84e0ecf7c2f5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/G2pRcvSV04q7.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +354,7 @@
           {
             "id": "75abd4b8-c13c-4229-8fd4-f97df3a9a85e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/RCr1BkVhwFHD.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +362,7 @@
           {
             "id": "1f93cd02-9a54-4d0c-880b-a27b2cd6d7b8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/JPmWfYpVqkB9.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +370,7 @@
           {
             "id": "278e06f7-80f5-4f0e-bdce-a2535dd5ada0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/kITVKDQFqGjr.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -378,7 +378,7 @@
           {
             "id": "ddc94d5c-1dfe-4295-a6b3-054e5c9e6fb9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/gtTKhnSP8WZ2.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -386,7 +386,7 @@
           {
             "id": "73eec84a-a196-4aa3-81a8-0460127c1f1e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/2LcWqxOnSa5h.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -394,7 +394,7 @@
           {
             "id": "dab7efb9-a775-46c0-b5c9-538164b492fc",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/5JTEmnZuvIwD.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1243,8 +1243,8 @@
       "title": "남해 글래드810 스파풀빌라",
       "description": "남해 바다를 가장 여유롭게 머무는 공간, 글래드810 스파 풀빌라",
       "keywords": "남해풀빌라,남해오션뷰,글래드810,남해스파풀빌라,남해감성숙소",
-      "naverSiteVerification": null,
-      "googleSiteVerification": null
+      "naverSiteVerification": "",
+      "googleSiteVerification": ""
     },
     "socialLinks": {
       "facebook": null,
@@ -1669,6 +1669,9 @@
               "enabled": false
             }
           ]
+        },
+        "landing": {
+          "sections": [ ]
         }
       },
       "popup": {
